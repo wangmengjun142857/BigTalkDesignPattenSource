@@ -1,0 +1,2 @@
+# BigTalkDesignPattenSource
+BigTalkDesignPattenSource-reading notes
